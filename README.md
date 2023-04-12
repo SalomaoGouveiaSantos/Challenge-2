@@ -1,2 +1,2 @@
 # Challenge-2
- This is the second of six challenges of the Unity plataform course
+This is the second challenge of the unity course, here i solve the problems in the line code and add some functionalities for the game.
